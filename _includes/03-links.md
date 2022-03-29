@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+https://github.com/PierreRoos
+https://www.linkedin.com/in/pierre-roos-a6424688/
